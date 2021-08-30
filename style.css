@@ -1,0 +1,12 @@
+#wrapper {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%);
+}
+
+input#inline-edit {
+  margin-top: 20px;
+}
